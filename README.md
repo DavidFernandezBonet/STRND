@@ -66,9 +66,7 @@ print(rec_positions.head())
 - umap-learn
 - (optional) proxigraph for the demo
 
-## Citation
 
-If you use STRND in your work, please cite:
 
 ## Citation
 
