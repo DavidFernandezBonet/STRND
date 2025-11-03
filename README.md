@@ -70,13 +70,17 @@ print(rec_positions.head())
 
 If you use STRND in your work, please cite:
 
-### Core STRND paper
+## Citation
 
-Fernández Bonet, D., & Hoffecker, I. T. (2023). *Image recovery from unknown network mechanisms for DNA sequencing-based microscopy.* **Nanoscale**, 15, 8153–8157. <https://doi.org/10.1039/D2NR05435C>.
+If you use STRND in your work, please cite:
 
-### Related work and applications
+**Core STRND paper**
 
-Dahlberg, S. K., Fernández Bonet, D., Franzén, L., Hoffecker, I. T., et al. (2025). *Hidden network preserved in Slide-tags data allows reference-free spatial reconstruction.* **Nature Communications**. (Uses STRND for cell localization from Slide-tags networks.)
+Fernández Bonet, D., & Hoffecker, I. T. (2023). *Image recovery from unknown network mechanisms for DNA sequencing-based microscopy.* Nanoscale, 15, 8153–8157. https://doi.org/10.1039/D2NR05435C
 
-Fernández Bonet, D., Ranyai, S., Aswad, L., et al. (2024). *Spatial coherence of DNA barcode networks.* **bioRxiv**. (Proposes metrics for assessing spatial information in sequencing-based microscopy networks.)
+**Related work**
+
+Dahlberg, S. K., Fernández Bonet, D., & Hoffecker, I. T. (2025). *Hidden network preserved in Slide-tags data allows reference-free spatial reconstruction.* Nature Communications. https://doi.org/10.1038/s41467-025-65295-w
+
+Fernández Bonet, D., Blumenthal, J. I., Lang, S., Dahlberg, S. K., & Hoffecker, I. T. (2024). *Spatial coherence of DNA barcode networks.* bioRxiv. https://doi.org/10.1101/2024.05.12.593725
 
